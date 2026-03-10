@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+###
+Repositório focado nas aulas de Programação para Dispositivos Móveis com o @qakarotto.
+###
